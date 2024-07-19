@@ -83,8 +83,7 @@ body {
 
 /* FRONT PAGE */
 header{
-  position: sticky;
-  top:0;
+
 }
  .front-post-title h1{
   font-family: 'Inter Extra bold';
